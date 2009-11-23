@@ -117,6 +117,10 @@ So, even though the plugin itself is a blatant monkey-patch to one of the
 most complex area of Rails internals, this solution seems to be effectively
 less intrusive and pricey than others are.
 
+## Test Section
+
+This is my test section.
+
 ## Etc
 
 Authors: [Sven Fuchs](http://www.artweb-design.de) <svenfuchs at artweb-design dot de>  
